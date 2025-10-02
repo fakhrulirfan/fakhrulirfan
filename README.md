@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fakhrul Irfan</h1>
 <h3 align="center">A Full-stack Web Developer</h3>
 
-- 🌱 I’m currently learning **NextJs, NestJs, PMP Certification**
+- 🌱 I’m currently learning **NextJs, NestJs**
 
 - 📫 How to reach me **f.irfxn@gmail.com**
 
