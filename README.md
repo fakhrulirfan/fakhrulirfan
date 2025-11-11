@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fakhrul Irfan</h1>
+<h1 align="center">I'm Fakhrul Irfan</h1>
 <h3 align="center">A Full-stack Web Developer</h3>
 
-- 🌱 I’m currently learning **NextJs, NestJs**
-
-- 📫 How to reach me **f.irfxn@gmail.com**
+- 📫 Contact me at: **f.irfxn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
